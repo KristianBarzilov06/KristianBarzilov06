@@ -1,9 +1,8 @@
-Hi my name is Kristian. 16y
-- 👀 I’m interested in ... idk programing ? XD
-- 🌱 I’m currently learning C#
-- 📫 How to reach me : kikogaming0@gmail.com
+👋 Hi there! I'm Kristian!
+💻 Interests: Currently focused on databases, and I feel most confident in MySQL – skills I developed in school.
+🎯 Goal: Aspiring to become a DBA (Database Administrator) and working hard to achieve it.
+📚 Projects: I'm currently working on my diploma project and learning through small school tasks and projects.
+🎮 Hobbies: I enjoy medieval computer games, hunting, and fishing.
+🚀 Level: Beginner, but motivated and eager to learn!
 
-<!---
-KristianBarzilov06/KristianBarzilov06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: kbarzilov@abv.bg
