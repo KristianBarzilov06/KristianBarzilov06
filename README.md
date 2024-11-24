@@ -1,4 +1,4 @@
-👋 Hi there! I'm Kristian!
+👋 Hi there! I'm Kris, level 19!
 
 💻 Interests: Currently focused on databases, and I feel most confident in MySQL – skills I developed in school.
 
